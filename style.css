@@ -1,0 +1,58 @@
+ .container {
+    max-width: 800px;
+    overflow: auto;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+
+ .title {
+    font-size: 20pt;
+    text-align: center;
+ }
+
+ #symbol {
+    color: orange;
+    font-size: 4pt;
+ }
+
+ .top {
+    margin-top: 20px;
+    margin-bottom: 0;
+ }
+
+ .options .star {
+    color: yellow;
+    font-size: 12pt;
+ }
+
+ h5 {
+    font-size: 12pt;
+    margin-top: 20px;
+ }
+
+ h6 {
+    margin-top: 20pt;
+ }
+
+ .options .star {
+
+    color: orange;
+    font-size: 20px;
+ }
+
+ .container form .user-details {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+ }
+
+ label {
+    margin-top: 20px;
+ }
+
+ td {
+    text-align: center;
+ }
